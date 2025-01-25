@@ -20,16 +20,13 @@ Currency Converter is a simple, fast, and user-friendly application that helps y
 
 ## 📸 Demo  
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Currency+Converter+App+Demo" alt="Demo Screenshot">
-</p>  
+🚀 **Live Website**: [Currency Converter](https://hardikgarg987.github.io/CurrencyConverter)
 
 ---
 
 ## 🛠️ Technologies Used  
 
 - **Frontend**: React.js  
-- **Backend**:  Node.js, Express.js  
 - **API**: Real-time exchange rates fetched from [Exchange Rate API](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json) or similar services.  
 
 ---
@@ -46,3 +43,25 @@ Currency Converter is a simple, fast, and user-friendly application that helps y
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Hardikgarg987/CurrencyConverter.git
+
+2. Navigate to the project directory: 
+   ```bash
+   cd CurrencyConverter
+
+3. Install frontend dependencies:
+   ```bash
+   npm install
+
+4. Run the frontend:
+   ```bash
+   npm run dev
+
+5. Access the application:
+    ```bash
+   http://localhost:3000
+
+
+
+
+
+
