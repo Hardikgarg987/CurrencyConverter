@@ -20,7 +20,7 @@ Currency Converter is a simple, fast, and user-friendly application that helps y
 
 ## 📸 Demo  
 
-🚀 **Live Website**: [Currency Converter](https://hardikgarg987.github.io/CurrencyConverter)
+🚀 **Live Website**: [Currency Converter](https://currency-converter-gilt-six.vercel.app/)
 
 ---
 
