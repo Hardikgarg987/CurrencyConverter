@@ -29,9 +29,8 @@ Currency Converter is a simple, fast, and user-friendly application that helps y
 ## 🛠️ Technologies Used  
 
 - **Frontend**: React.js  
-- **Backend**: Node.js, Express.js  
-- **Database**: MySQL (if applicable)  
-- **API**: Real-time exchange rates fetched from [Exchange Rate API](https://www.exchangerate-api.com) or similar services.  
+- **Backend**:  Node.js, Express.js  
+- **API**: Real-time exchange rates fetched from [Exchange Rate API](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json) or similar services.  
 
 ---
 
@@ -39,7 +38,6 @@ Currency Converter is a simple, fast, and user-friendly application that helps y
 
 - Node.js (v14 or higher)  
 - npm or yarn  
-- MySQL (if applicable)  
 
 ---
 
